@@ -1,0 +1,7 @@
+rock-paper-scissors/
+├── README.md
+├── game.py
+├── requirements.txt
+├── output/
+│   └── sample_output.txt
+└── report.md
